@@ -256,7 +256,8 @@ if ((Get-VMSwitch | ? name -eq $virtualSwitchName) -eq $null)
 {
 New-VMSwitch -Name $virtualSwitchName -SwitchType Private
 }
-PrepVM "Domain Controller 1" "DC1"
+
+PrepVM "Domain Controller 1" "DC1"
 PrepVM "Domain Controller 2" "DC2"
 PrepVM "DHCP Server" "DHCP"
 PrepVM "Management Console" "Management" -FullServer
