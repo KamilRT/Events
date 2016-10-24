@@ -1,6 +1,7 @@
-﻿#Requires -Version 5.1.14393
+#Requires -Version 5.1.14393
 #Requires -RunAsAdministrator
-# Created by Ben Armstrong aka VirtualGuy
+# Created by Ben Armstrong aka VirtualPCGuy
+# VirtualPCGuy's Twitter: https://twitter.com/virtualpcguy
 # Original sources are available at: https://github.com/Microsoft/Virtualization-Documentation
 # Modified for RTM version by Kamil Roman aka KamilRT
 # Feel free to contact me with any questions and suggestions at IT@KamilRT.net
